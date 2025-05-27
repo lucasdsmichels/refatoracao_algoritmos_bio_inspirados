@@ -132,6 +132,7 @@ Para informações detalhadas sobre:
 
 ### Slides
 
-[Refatoração - Bio inspirados.pdf](https://github.com/user-attachments/files/20463899/Refatoracao.-.Bio.inspirados.1.pdf)
+[Refatoração de algoritmos Bio-Inspirados.pdf](https://github.com/user-attachments/files/20466637/Refatoracao.de.algoritmos.Bio-Inspirados.pdf)
+
 
 ---
