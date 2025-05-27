@@ -20,20 +20,13 @@ Este repositório contém implementações de cinco algoritmos bio-inspirados pa
 
 ## 🚀 Quick Start
 
-### Pré-requisitos
-```bash
-python >= 3.7
-pandas
-numpy
-```
-
 ### Instalação
 ```bash
 # Clone o repositório
 git clone [url-do-repositorio]
 
 # Instale as dependências
-pip install pandas numpy
+pip install -r requirements.txt
 ```
 
 ### Execução Rápida
@@ -43,6 +36,9 @@ python algGeneticos_ref.py
 
 # Para executar a versão original
 python algGeneticos.py
+
+# Para verificar a comparação do tempo de execução entre o código refatorado e o antigo
+python main.py
 ```
 
 ## 💻 Como Usar
@@ -63,7 +59,7 @@ solucao, valor = algoritmo_genetico(pesos, valores, capacidade)
 print(f"Valor encontrado: {valor}")
 ```
 
-### Uso Avançado - Customizando Parâmetros
+### Customizando Parâmetros
 
 #### ACO (Ant Colony Optimization)
 ```python
