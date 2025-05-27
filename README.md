@@ -131,3 +131,11 @@ Para informações detalhadas sobre:
 - **Processo completo e métricas**: Ver [processo.md](./processo.md)
 
 ---
+
+---
+
+### Slides
+
+[Refatoração - Bio inspirados.pdf](https://github.com/user-attachments/files/20463899/Refatoracao.-.Bio.inspirados.1.pdf)
+
+---
