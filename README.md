@@ -128,8 +128,6 @@ Para informações detalhadas sobre:
 
 ---
 
----
-
 ### Slides
 
 https://docs.google.com/presentation/d/1v7E8urJXRXxmhLh8S-50sJ_Rb0T02mGWriwS8i2Fuww/edit?usp=sharing
