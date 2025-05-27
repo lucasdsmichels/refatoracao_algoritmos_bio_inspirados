@@ -5,10 +5,9 @@
 ### Contexto
 - **Projeto**: Algoritmos de Otimização para o Problema da Mochila 0/1
 - **Algoritmos**: ACO, Bee Algorithm, Cuckoo Search, Algoritmo Genético, PSO
-- **Objetivo**: Refatorar código legado para melhorar qualidade, manutenibilidade e legibilidade
+- **Objetivo**: Refatorar código dos algoritmos bio-inspirados para melhorar qualidade, manutenibilidade e legibilidade
 
 ### Escopo
-- 5 arquivos de algoritmos originais
 - Criação de versões refatoradas (_ref)
 - Implementação de módulo utils para código comum
 
